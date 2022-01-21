@@ -1,0 +1,113 @@
+@media (max-width: 600px) {
+  body {
+    width: 375px;
+  }
+  p {
+    display: none;
+  }
+
+  .materia-principal h1 {
+    font-size: 32px;
+    line-height: 40px;
+  }
+  .bordas-horizontais {
+    display: none;
+  }
+  .todas-partes {
+    display: flex;
+    width: 100%;
+  }
+  .todas-especial {
+    margin-bottom: 40px;
+  }
+  .blocao-cabecalho {
+    width: 375px;
+  }
+  .bordas-cabecalho {
+    width: 375px;
+  }
+  .bordas-mobile {
+    height: 1px;
+    background-color: #ebedef;
+    width: 375px;
+    margin-bottom: 40px;
+  }
+
+  .container {
+    width: 300px;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .container div {
+    width: 300px;
+  }
+
+  .blocao-cabecalho {
+    width: 375px;
+  }
+  .parte1 {
+    width: 100%;
+  }
+  .parte-movel {
+    width: 100%;
+  }
+  .noticias-g1 {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .blocao-cabecalho div {
+    width: 375px;
+  }
+
+  .bordas-verticais {
+    display: none;
+  }
+  .noticias-g1 {
+    display: flex;
+    flex-direction: column;
+  }
+
+  h2 {
+    color: #c4160c;
+  }
+
+  .valor {
+    display: none;
+  }
+  .cartola {
+    display: none;
+  }
+  .dropz {
+    display: none;
+  }
+  .quem {
+    display: none;
+  }
+  .receitas {
+    display: none;
+  }
+
+  .globoplay {
+    display: none;
+  }
+  .oglobo {
+    display: none;
+  }
+  .tech {
+    display: flex;
+  }
+  .videos {
+    display: flex;
+  }
+  .noticias-g1 div div img {
+    width: 129px;
+    height: 82px;
+  }
+
+  .noticias-geral div div img {
+    width: 129px;
+    height: 82px;
+  }
+}
